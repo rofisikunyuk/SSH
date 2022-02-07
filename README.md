@@ -11,3 +11,5 @@ Secure Shell (SSH) adalah sebuah protokol jaringan kriptografi untuk komunikasi 
 <img src="https://github.com/rofisikunyuk/SSH/blob/main/Screenshot/VirtualBox_DEBIAN10%5BSERVER%5D_07_02_2022_13_58_02.png" width="250" height="150">
 <p>Kemudian Kalian save dengan menekan tombol <code>ctrl+x</code> tekan <code>y</code> tekan <code>enter</code>
 <p><code>systemctl restart ssh</code> untuk merestart SSH</p>
+<p><code>systemctl start ssh</code> untuk mengaktifkan SSH</p>
+<p><code>systemctl status ssh</code> untuk melihat status SSH</p>
