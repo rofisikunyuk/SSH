@@ -14,4 +14,6 @@ Secure Shell (SSH) adalah sebuah protokol jaringan kriptografi untuk komunikasi 
 <p><code>systemctl start ssh</code> untuk mengaktifkan SSH.</p>
 <p><code>systemctl status ssh</code> untuk mengecek status SSH.</p>
 <p>Berikut ini adalah tampilan SSH yang sedang aktif.</p>
-<img src="https://github.com/rofisikunyuk/SSH/blob/main/Screenshot/VirtualBox_DEBIAN10%5BSERVER%5D_07_02_2022_13_58_27.png" width="250" height="150">
+<img src="https://github.com/rofisikunyuk/SSH/blob/main/Screenshot/VirtualBox_DEBIAN10%5BSERVER%5D_07_02_2022_13_58_27.png" width="250" height="150"><hr>
+<p>"Kalau gambarnya kurang jelas di zoom aja ya broo"</p>
+
