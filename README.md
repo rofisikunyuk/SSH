@@ -1,5 +1,5 @@
 # SSH
-Secure Shell (SSH) adalah sebuah protokol jaringan kriptografi untuk komunikasi data yang aman, login antarmuka baris perintah, perintah eksekusi jarak jauh, dan layanan jaringan lainnya antara dua jaringan komputer.
+<p contenteditable>Secure Shell (SSH) adalah sebuah protokol jaringan kriptografi untuk komunikasi data yang aman, login antarmuka baris perintah, perintah eksekusi jarak jauh, dan layanan jaringan lainnya antara dua jaringan komputer.</p>
 <h3>Cara menginstal SSH</h3>
 <p>1. Update Debian.</p>
 <p><code>apt-get update</code></p>
