@@ -6,7 +6,8 @@ Secure Shell (SSH) adalah sebuah protokol jaringan kriptografi untuk komunikasi 
 <p><code>apt-get upgrade</code></p>
 <p>2. Install SSH.</p>
 <p><code>apt-get install openssh-server</code></p>
-<p>3. <code>nano /etc/ssh/sshd_config</code></p>
+<p>3. Edit file konfigurasi SSH</p>
+<p><code>nano /etc/ssh/sshd_config</code></p>
 <p>Akan muncul tampilan seperti berikut.</p>
 <img src="https://github.com/rofisikunyuk/SSH/blob/main/Screenshot/VirtualBox_DEBIAN10%5BSERVER%5D_07_02_2022_13_57_43.png" width="250" height="150">
 <p>4. Hilangkan tanda pagar pada tulisan port 22 menjadi seperti ini.</p>
