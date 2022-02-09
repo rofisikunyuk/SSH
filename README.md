@@ -18,6 +18,7 @@
 <p>8. <code>systemctl status ssh</code> untuk mengecek status SSH.</p>
 <p>9. Berikut ini adalah tampilan SSH yang sedang aktif.</p>
 <img src="https://github.com/rofisikunyuk/SSH/blob/main/Screenshot/VirtualBox_DEBIAN10%5BSERVER%5D_07_02_2022_13_58_27.png" width="350" height="175">
-<p>10. Cara menggunakan service SSH lewat terminal <code>ssh username@host</code>.</p>
+<h3>Cara menggunakan service SSH lewat terminal.</h3>
+<code>ssh username@host</code>
 <img src="https://github.com/rofisikunyuk/SSH/blob/main/Screenshot/ssh%20terminal.png" width="350" height="175"><hr>
 <p>"Kalau gambarnya kurang jelas di zoom aja ya broo"</p>
