@@ -3,7 +3,7 @@
 <h3>Cara menginstal SSH</h3>
 <p>Update Debian.</p>
 <p><li><code>apt-get update</code></li></p>
-<p><li><code>apt-get upgrade</code><Li></p>
+<p><li><code>apt-get upgrade</code><li></p>
 <p>Install SSH.</p>
 <p><code>apt-get install openssh-server</code></p>
 <p>Edit file konfigurasi SSH</p>
