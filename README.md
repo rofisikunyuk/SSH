@@ -13,12 +13,12 @@
 <p>Hilangkan tanda pagar pada tulisan port 22 menjadi seperti ini.</p>
 <img src="https://github.com/rofisikunyuk/SSH/blob/main/Screenshot/VirtualBox_DEBIAN10%5BSERVER%5D_07_02_2022_13_58_02.png" width="350" height="175">
 <p>Kemudian Kalian save dengan menekan tombol <code>ctrl+x</code> tekan <code>y</code> tekan <code>enter</code>.</p>
-<p><code>systemctl restart ssh</code> untuk merestart SSH.</p>
-<p><code>systemctl start ssh</code> untuk mengaktifkan SSH.</p>
-<p><code>systemctl status ssh</code> untuk mengecek status SSH.</p>
+<p><Li><code>systemctl restart ssh</code> untuk merestart SSH.</li></p>
+<p><li><code>systemctl start ssh</code> untuk mengaktifkan SSH.</li></p>
+<p><li><code>systemctl status ssh</code> untuk mengecek status SSH.</Li></p>
 <p>Berikut ini adalah tampilan SSH yang sedang aktif.</p>
 <img src="https://github.com/rofisikunyuk/SSH/blob/main/Screenshot/VirtualBox_DEBIAN10%5BSERVER%5D_07_02_2022_13_58_27.png" width="350" height="175">
 <p>Cara menggunakan service SSH lewat terminal.</p>
-<p><code>ssh username@host</code></p>
+<p><li><code>ssh username@host</code></li></p>
 <img src="https://github.com/rofisikunyuk/SSH/blob/main/Screenshot/ssh%20terminal.png" width="350" height="175"><hr>
 <p>"Kalau gambarnya kurang jelas di zoom aja ya broo"</p>
